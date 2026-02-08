@@ -6,3 +6,6 @@ on singleplayer
 the file i have uploaded has folders with clothing and the correct names and such to make it work
 
 i did this a while back, it took me one nights work to rename everything but this either works for lspdfr somehow or on fivem
+with a little bit more work, since its the names they still need to run or be put somewhere to run/work
+
+clothing is LA cops based
